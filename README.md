@@ -41,7 +41,7 @@ Bio-inspired Miniproject for Dinosaur (Ankylosaurus)
 ### - Right-leg
 
 ## Assembly
-<img src="https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/blob/main/CAD/file.stl/Test%20moreeeeeee%20v19.stl" width=50% height=50%>
+<img src="https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/blob/main/CAD/file.stl/Test%20moreeeeeee%20v19.stl" width=30% height=30%>
 
 ## Component
 
