@@ -26,22 +26,22 @@ Bio-inspired Miniproject for Dinosaur (Ankylosaurus)
 ## Part
 ### - Tail
 
-<img src="https://github.com/ChollatisP/ROS-MiniProject/blob/DONE/CAD_Assembly/base.png" width=35% height=35%>
+<img src="" width=35% height=35%>
 
 ### - Neck & Head
 
-<img src="https://github.com/ChollatisP/ROS-MiniProject/blob/DONE/CAD_Assembly/Joint1.png" width=35% height=35%>
+<img src="" width=35% height=35%>
 
 ### - Body
 
-<img src="https://github.com/ChollatisP/ROS-MiniProject/blob/DONE/CAD_Assembly/Joint2.png" width=35% height=35%>
+<img src="" width=35% height=35%>
 
 ### - Left-leg
 
 ### - Right-leg
 
 ## Assembly
-<img src="https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/blob/main/CAD/Tail.step" width=50% height=50%>
+<img src="" width=50% height=50%>
 
 ## Component
 
