@@ -42,6 +42,7 @@ Bio-inspired Miniproject for Dinosaur (Ankylosaurus)
 
 ## Assembly
 <img src="https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/blob/main/CAD/File%20JPG/Tail.JPG" width=50% height=50%>
+![Head(Assembly)](https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/b6c93792-f88c-4df4-b51f-57864c94fe88)
 
 ## Component
 
