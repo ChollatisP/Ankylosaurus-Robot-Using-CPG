@@ -1,10 +1,5 @@
 # Ankylosaurus-Robot-Using-CPG
 
-![dino-dana-dino-dana-the-movie](https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/1bb0575d-9cb8-46e4-95e8-43b830276e22)
-
-https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/b15566a3-13c8-4875-8f44-a416ccbc8888
-
-
 ## Description
 
 Bio-inspired Miniproject for Dinosaur (Ankylosaurus)
