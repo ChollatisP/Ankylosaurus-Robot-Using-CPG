@@ -1,5 +1,7 @@
 # Ankylosaurus-Robot-Using-CPG
-Uploading Meet_the_ANKYLOSAURUS_Jurassic_World.mp4…
+
+![dino-dana-dino-dana-the-movie](https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/1bb0575d-9cb8-46e4-95e8-43b830276e22)
+
 ## Description
 
 Bio-inspired Miniproject for Dinosaur (Ankylosaurus)
