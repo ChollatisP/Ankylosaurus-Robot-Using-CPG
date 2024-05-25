@@ -1,8 +1,8 @@
-# Ankylosaurus-Robot-Using-CPG
+# Ankylosaurus Robot
 
 ## Description
 
-Bio-inspired Miniproject for Dinosaur (Ankylosaurus)
+This Mini-Project is part of  Bio-inspire subject
 
 ## Table of Content
 - [Ankylosaurus-Robot-Using-CPG](#ankylosaurus-robot-using-cpg)
