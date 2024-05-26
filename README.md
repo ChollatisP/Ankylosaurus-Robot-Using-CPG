@@ -72,7 +72,7 @@ Bio-inspired Miniproject for Dinosaur (Ankylosaurus)
 
 * [Servo motor SCS 15 manual](https://grobotronics.com/images/companies/1/datasheets/SCS15&SCS115%20Manual.pdf?1516269264467)
 
-### Driver
+### Library
 
 * [SCS15 Servo arduino driver](https://github.com/IS2511/SCServo.git)
 
