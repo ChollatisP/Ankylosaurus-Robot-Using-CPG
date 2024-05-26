@@ -150,3 +150,5 @@ https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/6cbd
 
 * [Servo motor SCS 15 manual](https://grobotronics.com/images/companies/1/datasheets/SCS15&SCS115%20Manual.pdf?1516269264467)
 
+### [Reference](https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/tree/main/Reference)
+
