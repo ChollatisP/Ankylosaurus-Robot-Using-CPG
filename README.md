@@ -47,7 +47,28 @@ Bio-inspired Miniproject for Dinosaur (Ankylosaurus)
 
 ### Software
 
+* Arduino IDE (Any version)
+* FD 1.9.8.2 (SCSservo Software)
+
 ### Hardware
+
+* Feetech SCS15 Motor 
+   * quantity 8
+ * FE-URT-1 
+   * quantity 1
+ * Step Down (LM2596) 
+   * quantity 1
+ * MG90S Servo Motor 
+   * quantity 2
+ * Arduimo UNO R4 WIFI 
+   * quantity 1
+ * Node32S
+   * quantity 1
+ * Photo Board (8.5*5.5 cm.)
+   * quantity 1
+ * 3000 mAh Li-Po Battery
+   * quantity 1
+ * Jumper wire
 
 ## Authors
 
