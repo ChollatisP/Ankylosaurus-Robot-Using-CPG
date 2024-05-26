@@ -27,8 +27,6 @@ Bio-inspired Miniproject for Dinosaur (Ankylosaurus)
 
 ## Part
 
-## Assembly
-
 ### - Tail
 
 ![Tail](https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/eba4127e-1134-43ff-8ab5-4f68a62fa76f)
@@ -43,11 +41,21 @@ https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/31a3
 
 ### - Left-Rear-Leg
 
+https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/f0d755fc-a621-4187-81f4-3e616c87f374
+
 ### - Right-Rear-Leg
+
+https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/73323a92-11e0-47a3-b45a-8f9a36d1330e
 
 ### - Left-Front-Leg
 
+https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/a362d214-d938-400e-98b1-ab38c1122920
+
 ### - Right-Front-Leg
+
+https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/f60c23ce-5cd6-48cf-a238-8bfbbe61a805
+
+## Assembly
 
 ## Component
 
