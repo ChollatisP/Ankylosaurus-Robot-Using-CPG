@@ -34,9 +34,15 @@ This Mini-Project is part of  Bio-inspire subject
 
 ### - Body
 
+<img src="" width=35% height=35%>
+
 ### - Left-leg
 
+<img src="" width=35% height=35%>
+
 ### - Right-leg
+
+<img src="" width=35% height=35%>
 
 ## Assembly
 
