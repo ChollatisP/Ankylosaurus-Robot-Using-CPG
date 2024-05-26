@@ -77,6 +77,8 @@ https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/f60c
 
 ## Assembly
 
+https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/6cbdc5d4-3189-4b34-b544-ea275060897f
+
 ## Component
 
 ### - Software
