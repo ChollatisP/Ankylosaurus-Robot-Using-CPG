@@ -27,11 +27,11 @@ Bio-inspired Miniproject for Dinosaur (Ankylosaurus)
 
 ## Concept
 
-### - Hormone
+### Hormone
 
 ![Subheading](https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/70354047-444d-4235-b26e-a5317d0c8089)
 
-### - CPG-VRN
+### CPG-VRN
 
 ![Screenshot 2024-05-26 225831](https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/24042258-8aa3-4511-b7de-ab74b57d706e)
 
