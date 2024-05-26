@@ -41,7 +41,7 @@ This Mini-Project is part of  Bio-inspire subject
 ### - Right-leg
 
 ## Assembly
-<img src="![Nitro_Wallpaper_01_3840x2400](https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/c142462a-764b-46dd-b188-77d287a86f10)"
+![Nitro_Wallpaper_01_3840x2400](https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/c142462a-764b-46dd-b188-77d287a86f10)
 
 ## Component
 
