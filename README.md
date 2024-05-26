@@ -37,8 +37,9 @@ This Mini-Project is part of  Bio-inspire subject
 
 * Hormone
 
-![Subheading](https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/70354047-444d-4235-b26e-a5317d0c8089)
-
+<p align="center">
+  <img src="https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/70354047-444d-4235-b26e-a5317d0c8089" alt="Hormone" width="700"/>
+</p>
 
 ## Part
 
