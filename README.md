@@ -5,7 +5,7 @@
 ### This Mini-Project is part of  Bio-inspire subject
 
 ## Table of Content
-- [Ankylosaurus-Robot-Using-CPG](#ankylosaurus-robot-using-cpg)
+- [Ankylosaurus Robot](#ankylosaurus-robot)
   - [Description](#description)
   - [Table of Content](#table-of-content)
   - [Concept](#concept)
