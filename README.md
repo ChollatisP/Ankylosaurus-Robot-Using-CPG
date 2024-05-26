@@ -34,7 +34,7 @@ This Mini-Project is part of  Bio-inspire subject
 * CPG and VRN
 
 <p align="center">
-  <img src="https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/24042258-8aa3-4511-b7de-ab74b57d706e" alt="CPG and VRN" width="500"/>
+  <img src="https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/24042258-8aa3-4511-b7de-ab74b57d706e" alt="CPG and VRN" width="300"/>
 </p>
 
 * Hormone
