@@ -1,19 +1,19 @@
-# Ankylosaurus Robot
+# Ankylosaurus-Robot-Using-CPG
 
 ## Description
 
-This Mini-Project is part of  Bio-inspire subject
+Bio-inspired Miniproject for Dinosaur (Ankylosaurus)
 
 ## Table of Content
 - [Ankylosaurus-Robot-Using-CPG](#ankylosaurus-robot-using-cpg)
   - [Description](#description)
   - [Table of Content](#table-of-content)
   - [Part](#part)
-    - [Tail](#--tail)
-    - [Neck \& Head](#--neck--head)
-    - [Body](#--body)
-    - [Left-leg](#--left-leg)
-    - [Right-leg](#--right-leg)
+    - [Tail](#tail)
+    - [Neck & Head](#neck--head)
+    - [Body](#body)
+    - [Left-leg](#left-leg)
+    - [Right-leg](#right-leg)
   - [Assembly](#assembly)
   - [Component](#component)
     - [Software](#software)
@@ -24,27 +24,36 @@ This Mini-Project is part of  Bio-inspire subject
     - [Data](#data)
 
 ## Part
+
+## Assembly
+
 ### - Tail
 
-<img src="" width=35% height=35%>
+![Tail](https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/aa5efd62-8106-48ae-b9c2-ba582fc3eb29)
 
 ### - Neck & Head
 
-<img src="" width=35% height=35%>
+![Neck & Head](https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/26f7062d-85b6-4c35-9f77-5c8f6e8af2ee)
 
 ### - Body
 
-<img src="" width=35% height=35%>
+![Body](https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/b59cbfcf-e06a-43e9-9fc2-5402b3750539)
 
-### - Left-leg
+### - Left-Rear-Leg
 
-<img src="" width=35% height=35%>
+![Left-Rear-Leg](https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/76fd6fe8-253b-4880-8c71-8ed925a14081)
 
-### - Right-leg
+### - Right-Rear-Leg
 
-<img src="" width=35% height=35%>
+![Right-Rear-Leg](https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/4ab3d72d-8f17-4ccf-81dc-d1b68c0791ea)
 
-## Assembly
+### - Left-Front-Leg
+
+![Right-Front-Leg](https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/b9e2c8a5-399d-45f0-a990-aae1dbc88b24)
+
+### - Right-Front-Leg
+
+![Left-Front-Leg](https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/7bff1022-7ee6-4904-8687-2b6b476ae650)
 
 ## Component
 
@@ -65,7 +74,6 @@ This Mini-Project is part of  Bio-inspire subject
 * Kantawit Panyateang 6452500198
 
 * Komgrid Petchpayub 6452500392
-
 
 ## Acknowledgments
 ### Manual
