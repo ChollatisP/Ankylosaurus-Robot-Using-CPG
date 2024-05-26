@@ -44,7 +44,9 @@ This Mini-Project is part of  Bio-inspire subject
 
 ### - Tail
 
-![Tail](https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/eba4127e-1134-43ff-8ab5-4f68a62fa76f)
+<p align="center">
+  <img src="https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/eba4127e-1134-43ff-8ab5-4f68a62fa76f" alt="Tail" width="200"/>
+</p>
 
 ### - Neck-Head
 
