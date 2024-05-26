@@ -114,23 +114,23 @@ https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/f60c
  * 3000 mAh Li-Po Battery
    * quantity 1
  * Jumper wire
+ 
+## Group members 
 
-## Authors
+* Nipitpon Phumchoedchan 6452500015 (Hormone system Design and Coding)
 
-* Nipitpon Phumchoedchan 6452500015
+* Chollatis Petchsing 6452500023 (CPG and VRN Coding)
 
-* Chollatis Petchsing 6452500023
+* Akaraphon Trakoolwiya 6452500180 (Mechanic and Desiner)
 
-* Akaraphon Trakoolwiya 6452500180
+* Kantawit Panyateang 6452500198 (Head of Mechanic and Desiner)
 
-* Kantawit Panyateang 6452500198
+* Wiraphat panma 6452500350 (Mechanic and Desiner)
 
-* Wiraphat panma 6452500350
-
-* Komgrid Petchpayub 6452500392
+* Komgrid Petchpayub 6452500392 (Project Manager)
 
 ## Acknowledgments
-### - Manual
+### Manual and Datasheet
 
 * [Arduino® UNO R4 WiFi](https://docs.arduino.cc/resources/datasheets/ABX00087-datasheet.pdf)
 
