@@ -2,7 +2,7 @@
 
 ## Description
 
-###Bio-inspired Miniproject for Dinosaur (Ankylosaurus)
+### Bio-inspired Miniproject for Dinosaur (Ankylosaurus)
 This Mini-Project is part of  Bio-inspire subject
 
 ## Table of Content
