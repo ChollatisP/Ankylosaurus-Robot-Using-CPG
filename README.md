@@ -119,6 +119,12 @@ https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/f60c
  * 3000 mAh Li-Po Battery
    * quantity 1
  * Jumper wire
+
+### - Diagram & Wiring
+
+<p align="center">
+  <img src="https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/0f5c2d3f-9307-49bd-b07c-bbffc3dd30ef" alt="Tail" width="700"/>
+</p>
  
 ## Group members 
 
