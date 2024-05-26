@@ -39,6 +39,8 @@ https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/0611
 
 ### - Body
 
+https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/31a39d6f-0629-42f6-9094-0288651878a0
+
 ### - Left-Rear-Leg
 
 ### - Right-Rear-Leg
