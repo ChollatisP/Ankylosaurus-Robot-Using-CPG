@@ -2,10 +2,12 @@
 
 ## Description
 
-### This Mini-Project is part of  Bio-inspire subject
+The goal of this Mini-Project is to create a robot that inspired by Ankylosuarus and using Central Pattern Generator (CPG), VRNs and also Virtual Hormones to simulate nervous system in 
+living things. 
+
 
 ## Table of Content
-- Ankylosaurus Robot
+- Ankylosaurus-Robot-Using-CPG
   - Description
   - Table of Content
   - Concept
@@ -30,25 +32,23 @@
 
 ## Concept
 
-* CPG and VRN
+### - CPG and VRN
 
-<p align="center">
-  <img src="https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/24042258-8aa3-4511-b7de-ab74b57d706e" alt="CPG and VRN" width="400"/>
-</p>
+![Screenshot 2024-05-26 225831](https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/24042258-8aa3-4511-b7de-ab74b57d706e)
 
-* Hormone
+  * From this picture. We assign M4-M7 as an Knee Joint and assign M0-M3 as an Shoulder Joint of our Ankylosaurua robot. So we use SO2 an Assign as O1 and O2. 
+    * At O1, we use output from O1 to control Knee Joint an we use 1 and -1 as a weight of O1 os output from O1 will perform as Front Left Knee and Rear Right Knee will moving in the same direction and al Front Right Knee and Rear Left Knee
 
-<p align="center">
-  <img src="https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/70354047-444d-4235-b26e-a5317d0c8089" alt="Hormone" width="700"/>
-</p>
+### - Hormone
+
+![Subheading](https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/70354047-444d-4235-b26e-a5317d0c8089)
+
 
 ## Part
 
 ### - Tail
 
-<p align="center">
-  <img src="https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/eba4127e-1134-43ff-8ab5-4f68a62fa76f" alt="Tail" width="700"/>
-</p>
+![Tail](https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/eba4127e-1134-43ff-8ab5-4f68a62fa76f)
 
 ### - Neck-Head
 
@@ -120,15 +120,9 @@ https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/6cbd
  * 3000 mAh Li-Po Battery
    * quantity 1
  * Jumper wire
-
-### - Diagram & Wiring
-
-<p align="center">
-  <img src="https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/0f5c2d3f-9307-49bd-b07c-bbffc3dd30ef" alt="Tail" width="700"/>
-</p>
  
 ## Group members 
-
++
 * Nipitpon Phumchoedchan 6452500015 (Hormone system Design and Coding)
 
 * Chollatis Petchsing 6452500023 (CPG and VRN Coding)
@@ -142,13 +136,11 @@ https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/6cbd
 * Komgrid Petchpayub 6452500392 (Project Manager)
 
 ## Acknowledgments
-### - Manual and Datasheet
+### Manual and Datasheet
 
 * [Arduino® UNO R4 WiFi](https://docs.arduino.cc/resources/datasheets/ABX00087-datasheet.pdf)
 
 * [Servo motor SCS 15](https://www.feetechrc.com/Data/feetechrc/upload/file/20201127/start%20%20tutorial201015.pdf)
 
 * [Servo motor SCS 15 manual](https://grobotronics.com/images/companies/1/datasheets/SCS15&SCS115%20Manual.pdf?1516269264467)
-
-### - [Reference](https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/tree/main/Reference)
 
