@@ -54,7 +54,7 @@ This Mini-Project is part of  Bio-inspire subject
 ### - Neck-Head
 
 <p align="center">
-  <video src="https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/061143af-20ef-42ed-8587-2f487bc01352" alt="Neck-Head" width="700"/>
+  <video src="https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/061143af-20ef-42ed-8587-2f487bc01352" alt="Neck-Head" width="300"/>
 </p>
 
 ### - Body
