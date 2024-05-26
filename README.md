@@ -33,7 +33,7 @@ Bio-inspired Miniproject for Dinosaur (Ankylosaurus)
 
 ### - CPG-VRN
 
-![Screenshot 2024-05-26 225831](https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/44db49ad-4b2d-4754-9fa7-88c59092cda5)
+![Subheading](https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/277415f7-c5ca-49e5-91ba-d119f501c1a9)
 
 ## Part
 
