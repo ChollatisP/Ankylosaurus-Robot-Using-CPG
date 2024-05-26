@@ -92,9 +92,9 @@ https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/f60c
 
 * Akaraphon Trakoolwiya 6452500180
 
-* Wiraphat panma 6452500350
-
 * Kantawit Panyateang 6452500198
+
+* Wiraphat panma 6452500350
 
 * Komgrid Petchpayub 6452500392
 
