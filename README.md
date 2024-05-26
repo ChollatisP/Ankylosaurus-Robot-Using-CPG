@@ -61,7 +61,7 @@ https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/f60c
 
 ### Software
 
-* [Arduino IDE] (https://www.arduino.cc/en/software) (Any version)
+* [Arduino IDE](https://www.arduino.cc/en/software) (Any version)
 * FD 1.9.8.2 (SCSservo Software)
 
 ### Hardware
