@@ -34,7 +34,7 @@ This Mini-Project is part of  Bio-inspire subject
 * CPG and VRN
 
 <p align="center">
-  <img src="https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/24042258-8aa3-4511-b7de-ab74b57d706e" alt="CPG and VRN" width="1000"/>
+  <img src="https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/24042258-8aa3-4511-b7de-ab74b57d706e" alt="CPG and VRN" width="500"/>
 </p>
 
 * Hormone
@@ -48,7 +48,7 @@ This Mini-Project is part of  Bio-inspire subject
 ### - Tail
 
 <p align="center">
-  <img src="https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/eba4127e-1134-43ff-8ab5-4f68a62fa76f" alt="Tail" width="500"/>
+  <img src="https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/eba4127e-1134-43ff-8ab5-4f68a62fa76f" alt="Tail" width="700"/>
 </p>
 
 ### - Neck-Head
