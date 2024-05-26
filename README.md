@@ -31,7 +31,7 @@ Bio-inspired Miniproject for Dinosaur (Ankylosaurus)
 
 ![Tail](https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/eba4127e-1134-43ff-8ab5-4f68a62fa76f)
 
-### - Neck & Head
+### - Neck-Head
 
 https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/061143af-20ef-42ed-8587-2f487bc01352
 
