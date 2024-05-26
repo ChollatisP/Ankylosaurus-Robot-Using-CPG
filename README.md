@@ -5,28 +5,28 @@
 ### This Mini-Project is part of  Bio-inspire subject
 
 ## Table of Content
-- [Ankylosaurus Robot](#ankylosaurus-robot)
-  - [Description](#description)
-  - [Table of Content](#table-of-content)
-  - [Concept](#concept)
-    - [Hormone](#*hormone)
-    - [CPG-VRN](#*cpg-vrn)
-  - [Part](#part)
-    - [Tail](#--tail)
-    - [Neck-Head](#--neck-head)
-    - [Body](#--body)
-    - [Left-Rear-Leg](#--left-rear-leg)
-    - [Right-Rear-Leg](#--right-rear-leg)
-    - [Left-Front-Leg](#--left-front-leg)
-    - [Right-Front-Leg](#--right-front-leg)
-  - [Assembly](#assembly)
-  - [Component](#component)
-    - [Software](#software)
-    - [Hardware](#hardware)
-  - [Authors](#authors)
-  - [Acknowledgments](#acknowledgments)
-    - [Manual](#manual)
-    - [Library](#library)
+- Ankylosaurus Robot
+  - Description
+  - Table of Content
+  - Concept
+    - Hormone
+    - CPG-VRN
+  - Part
+    - Tail
+    - Neck-Head
+    - Body
+    - Left-Rear-Leg
+    - Right-Rear-Leg
+    - Left-Front-Leg
+    - Right-Front-Leg
+  - Assembly
+  - Component
+    - Software
+    - Hardware
+  - Authors
+  - Acknowledgments
+    - Manual
+    - Library
 
 ## Concept
 
