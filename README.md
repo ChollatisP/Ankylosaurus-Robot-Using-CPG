@@ -77,7 +77,23 @@ https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/f60c
 ### - Software
 
 * [Arduino IDE](https://www.arduino.cc/en/software) (Any version)
+  * Library
+
+    * Normal
+      * math.h
+      * WiFi.h
+      * PubSubClient.h
+      * ESP32Servo.h
+      * [How to install arduino library](https://support.arduino.cc/hc/en-us/articles/5145457742236-Add-libraries-to-Arduino-IDE) 
+
+    * Additional
+
+      * [SCS15 Servo arduino driver](https://github.com/IS2511/SCServo.git)
+
+      * [How to install additional arduino library](https://docs.arduino.cc/software/ide-v1/tutorials/installing-libraries/)  
+
 * [FD 1.9.8.2](https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/tree/main/Feetech%20SCSservo%20Software) (SCSservo Software)
+
 
 ### - Hardware
 
@@ -122,8 +138,3 @@ https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/f60c
 
 * [Servo motor SCS 15 manual](https://grobotronics.com/images/companies/1/datasheets/SCS15&SCS115%20Manual.pdf?1516269264467)
 
-### - Library
-
-* [SCS15 Servo arduino driver](https://github.com/IS2511/SCServo.git)
-
-* [How to install additional arduino library](https://docs.arduino.cc/software/ide-v1/tutorials/installing-libraries/)  
