@@ -41,7 +41,7 @@ This Mini-Project is part of  Bio-inspire subject
 ### - Right-leg
 
 ## Assembly
-<img src="https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/blob/main/CAD/File%20JPG/Tail.JPG" width=50% height=50%> | <img src="https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/blob/main/CAD/File%20JPG/Tail.JPG" width=50% height=50%>
+<img src="https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/blob/main/CAD/File%20JPG/Tail.JPG" width=30% height=30%> <img src="https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/blob/main/CAD/File%20JPG/Tail.JPG" width=30% height=30%>
 
 ## Component
 
