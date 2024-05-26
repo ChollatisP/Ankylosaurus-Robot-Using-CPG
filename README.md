@@ -75,3 +75,5 @@ Bio-inspired Miniproject for Dinosaur (Ankylosaurus)
 ### Driver
 
 * [SCS15 Servo arduino driver](https://github.com/IS2511/SCServo.git)
+
+* [How to install additional arduino library](https://docs.arduino.cc/software/ide-v1/tutorials/installing-libraries/)  
