@@ -34,8 +34,6 @@ This Mini-Project is part of  Bio-inspire subject
 
 ### - Body
 
-![Nitro_Wallpaper_01_250x300](https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/c142462a-764b-46dd-b188-77d287a86f10)
-
 ### - Left-leg
 
 ### - Right-leg
