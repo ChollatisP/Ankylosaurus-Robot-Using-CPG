@@ -4,27 +4,6 @@
 
 Bio-inspired Miniproject for Dinosaur (Ankylosaurus)
 
-## Table of Content
-- [Ankylosaurus-Robot-Using-CPG](#ankylosaurus-robot-using-cpg)
-  - [Description](#description)
-  - [Table of Content](#table-of-content)
-  - [Part](#part)
-    - [Tail](#--tail)
-    - [Neck-Head](#--neck-head)
-    - [Body](#--body)
-    - [Left-Rear-Leg](#--left-rear-leg)
-    - [Right-Rear-Leg](#--right-rear-leg)
-    - [Left-Front-Leg](#--left-front-leg)
-    - [Right-Front-Leg](#--right-front-leg)
-  - [Assembly](#assembly)
-  - [Component](#component)
-    - [Software](#software)
-    - [Hardware](#hardware)
-  - [Authors](#authors)
-  - [Acknowledgments](#acknowledgments)
-    - [Manual](#manual)
-    - [Library](#library)
-
 ## Part
 
 ### - Tail
