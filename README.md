@@ -9,12 +9,14 @@ Bio-inspired Miniproject for Dinosaur (Ankylosaurus)
   - [Description](#description)
   - [Table of Content](#table-of-content)
   - [Part](#part)
+  - [Assembly](#assembly)
     - [Tail](#tail)
     - [Neck & Head](#neck--head)
     - [Body](#body)
-    - [Left-leg](#left-leg)
-    - [Right-leg](#right-leg)
-  - [Assembly](#assembly)
+    - [Left-Rear-Leg](#Left-Rear-Leg)
+    - [Right-Rear-Leg](#Right-Rear-Leg)
+    - [Left-Front-Leg](#Left-Front-Leg)
+    - [Right-Front-Leg](#Right-Front-Leg)
   - [Component](#component)
     - [Software](#software)
     - [Hardware](#hardware)
@@ -73,8 +75,3 @@ Bio-inspired Miniproject for Dinosaur (Ankylosaurus)
 ### Driver
 
 * [SCS15 Servo arduino driver](https://github.com/IS2511/SCServo.git)
-#### How to install Additional Arduino Driver
-
-* Go to Git Repositories an download Repo as ZIP.
-* Extract ZIP file into your arduino library directory.
-* [Or click here to read arduino tutorial](https://docs.arduino.cc/software/ide-v1/tutorials/installing-libraries/)
