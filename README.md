@@ -9,8 +9,8 @@ Bio-inspired Miniproject for Dinosaur (Ankylosaurus)
   - [Description](#description)
   - [Table of Content](#table-of-content)
   - [Concept](#concept)
-    - [Hormone](#--hormone)
-    - [CPG-VRN](#--cpg-vrn)
+    - [Hormone](#hormone)
+    - [CPG-VRN](#cpg-vrn)
   - [Part](#part)
     - [Tail](#--tail)
     - [Neck-Head](#--neck-head)
@@ -21,20 +21,20 @@ Bio-inspired Miniproject for Dinosaur (Ankylosaurus)
     - [Right-Front-Leg](#--right-front-leg)
   - [Assembly](#assembly)
   - [Component](#component)
-    - [Software](#--software)
-    - [Hardware](#--hardware)
+    - [Software](#software)
+    - [Hardware](#hardware)
   - [Authors](#authors)
   - [Acknowledgments](#acknowledgments)
-    - [Manual](#--manual)
-    - [Library](#--library)
+    - [Manual](#manual)
+    - [Library](#library)
 
 ## Concept
 
-### Hormone
+### - Hormone
 
 ![Subheading](https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/70354047-444d-4235-b26e-a5317d0c8089)
 
-### CPG-VRN
+### - CPG-VRN
 
 ![Screenshot 2024-05-26 225831](https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/24042258-8aa3-4511-b7de-ab74b57d706e)
 
@@ -72,12 +72,12 @@ https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/f60c
 
 ## Component
 
-### Software
+### - Software
 
 * [Arduino IDE](https://www.arduino.cc/en/software) (Any version)
 * [FD 1.9.8.2](https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/tree/main/Feetech%20SCSservo%20Software) (SCSservo Software)
 
-### Hardware
+### - Hardware
 
 * Feetech SCS15 Motor 
    * quantity 8
@@ -112,7 +112,7 @@ https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/f60c
 * Komgrid Petchpayub 6452500392
 
 ## Acknowledgments
-### Manual
+### - Manual
 
 * [Arduino® UNO R4 WiFi](https://docs.arduino.cc/resources/datasheets/ABX00087-datasheet.pdf)
 
@@ -120,7 +120,7 @@ https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/f60c
 
 * [Servo motor SCS 15 manual](https://grobotronics.com/images/companies/1/datasheets/SCS15&SCS115%20Manual.pdf?1516269264467)
 
-### Library
+### - Library
 
 * [SCS15 Servo arduino driver](https://github.com/IS2511/SCServo.git)
 
