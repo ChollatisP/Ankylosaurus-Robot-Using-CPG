@@ -68,9 +68,10 @@ Hc from this equation is used to adjust the motor speed. This system allows the 
 
 * Body
   * Reference
-<p align="center">
-  <img src="https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/37c52bce-65c4-4ef9-9caa-2a8e39d26326" width="500"/>
-</p>
+    <p align="center">
+      <img src="https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/37c52bce-65c4-4ef9-9caa-2a8e39d26326" width="500"/>
+    </p>
+
   * After choosing the Ankylosaurus as a reference for our robot, we based our design on a four-legged animal. Studying the skeleton of the Ankylosaurus, which has different leg lengths, we designed the front legs to be 86 centimeters long and the rear legs to be 115 centimeters long.
 
   * Free body diagram and Calculate force max in the home position. [Click hear](https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/blob/main/Prove/Free_body_diagram.pdf)
@@ -80,19 +81,19 @@ Hc from this equation is used to adjust the motor speed. This system allows the 
 
 * Tail
   * Reference
-<p align="center">
-  <img src="https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/97f1a28b-8aec-4e17-a96e-8ee542018c32" width="450"/>
-  <img src="https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/e6935cec-1c71-4bc3-9a23-b6e6ac818ea6)" width="450"/>
-</p>
+    <p align="center">
+      <img src="https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/97f1a28b-8aec-4e17-a96e-8ee542018c32" width="450"/>
+      <img src="https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/e6935cec-1c71-4bc3-9a23-b6e6ac818ea6)" width="450"/>
+    </p>
 
   * We design 3D-printable joints for assembling a tail using PLA filament, with a total weight of 36 grams. Drawing inspiration from dragon models, the joints feature a grab mechanism, enabling the tail to move left and right.
 
 * Head
   * Reference
-<p align="center">
-  <img src="https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/3e25c1e6-cdeb-4427-aadf-12d72b768a26" width="450"/>
-  <img src="https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/652792c7-629e-4e3f-ad38-e2ccd06bdce9" width="450"/>
-</p>
+    <p align="center">
+      <img src="https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/3e25c1e6-cdeb-4427-aadf-12d72b768a26" width="450"/>
+      <img src="https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/652792c7-629e-4e3f-ad38-e2ccd06bdce9" width="450"/>
+    </p>
 
   * We designed the head structure based on Ankylosaurus anatomy. Its structure is similar to that of a turtle. But it has sharp spines and bone-like armor to protect it from predators. We also designed the mouth to have a jaw-like structure. This allows the servo to control the movement of the mouth. It also has a long neck so that the servo can move the neck up and down.
 
