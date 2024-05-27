@@ -144,9 +144,10 @@ https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/6cbd
 ### - Diagram & Wiring
 
 <p align="center">
-  <img src="https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/217aee18-ee77-4d6e-bcb5-e33e80466897" width="700"/>
+  <img src="https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/217aee18-ee77-4d6e-bcb5-e33e80466897" width="400"/>
+  <img src="https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/2c12d810-dc2b-4f72-a08a-95d1fe9f8f5f" width="400"/>
 </p>
- 
+
 ## Group members 
 
 * Nipitpon Phumchoedchan 6452500015 (Hormone system Design and Coding)
