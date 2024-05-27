@@ -2,8 +2,7 @@
 
 ## Description
 
-The goal of this Mini-Project is to create a robot that inspired by Ankylosuarus and using Central Pattern Generator (CPG), VRNs and also Virtual Hormones to simulate nervous system in 
-living things. 
+The goal of this Mini-Project is to design and develop a robotic system inspired by the Ankylosaurus, an armored dinosaur. This robot will utilize a Central Pattern Generator (CPG), Virtual Rhythmic Networks (VRNs), and Virtual Hormones to simulate the complex behaviors and nervous system found in living organisms. 
 
 
 ## Table of Content
@@ -42,6 +41,8 @@ living things.
 ### - Hormone
 
 ![Subheading](https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/70354047-444d-4235-b26e-a5317d0c8089)
+
+* 
 
 
 ## Part
