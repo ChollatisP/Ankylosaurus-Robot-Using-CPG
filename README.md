@@ -33,23 +33,25 @@ The goal of this Mini-Project is to design and develop a robotic system inspired
 
 ### - CPG and VRN
 
-![Screenshot 2024-05-26 225831](https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/24042258-8aa3-4511-b7de-ab74b57d706e)
-
+<p align="center">
+  <img src="https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/24042258-8aa3-4511-b7de-ab74b57d706e" width="300"/>
+</p>
   
   *  The robotic system, inspired by an ankylosaurus, features shoulder joints (M0-M3) and knee joints (M4-M7). SO2 is employed with O1 and O2 as outputs. Output from O1 controls knee joints, with weights of 1 and -1 causing Front Left and Rear Right knees to move in sync, while Front Right and Rear Left knees move oppositely, mimicking ankylosaurus limb coordination. Additionally, output from O2 is combined with Input 1 and 2 to allow inputs to influence shoulder movement, termed VRNs (Variable Response Networks), enabling input values to affect robot motion. 
 
 ### - Hormone
 
-![Subheading](https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/70354047-444d-4235-b26e-a5317d0c8089)
-
-* 
-
+<p align="center">
+  <img src="https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/70354047-444d-4235-b26e-a5317d0c8089" width="300"/>
+</p>
 
 ## Part
 
 ### - Tail
 
-![Tail](https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/eba4127e-1134-43ff-8ab5-4f68a62fa76f)
+<p align="center">
+  <img src="https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/eba4127e-1134-43ff-8ab5-4f68a62fa76f" width="500"/>
+</p>
 
 ### - Neck-Head
 
