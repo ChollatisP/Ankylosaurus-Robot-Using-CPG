@@ -26,8 +26,8 @@ The goal of this Mini-Project is to design and develop a robotic system inspired
     - Hardware
   - Authors
   - Acknowledgments
-    - Manual
-    - Library
+    - Manual and Datasheet
+    - Reference
 
 ## Concept
 
@@ -178,6 +178,5 @@ https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/6cbd
 * [MG90S Servo Motor](https://www.electronicoscaldas.com/datasheet/MG90S_Tower-Pro.pdf)
 
 * [Node32S](https://www.es.co.th/Schemetic/PDF/ESP32.PDF)
-
 
 ### - [Reference](https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/tree/main/Reference)
