@@ -4,7 +4,6 @@
 
 The goal of this Mini-Project is to design and develop a robotic system inspired by the Ankylosaurus, an armored dinosaur. This robot will utilize a Central Pattern Generator (CPG), Virtual Rhythmic Networks (VRNs), and Virtual Hormones to simulate the nervous system found in living organisms. 
 
-
 ## Table of Content
 - Ankylosaurus-Robot-Using-CPG
   - Description
@@ -53,6 +52,11 @@ where
 a (alpha) and 
 b (beta) are constants. The output 
 Hc from this equation is used to adjust the motor speed. This system allows the hormone levels to influence the walking speed of the robot.
+
+### - Robot design
+
+* Body
+  After choosing the Ankylosaurus as a reference for our robot, we based our design on a four-legged animal. Studying the skeleton of the Ankylosaurus, which has different leg lengths, we designed the front legs to be 86 centimeters long and the rear legs to be 115 centimeters long.
 
 ## Part
 
