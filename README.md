@@ -24,6 +24,7 @@ The goal of this Mini-Project is to design and develop a robotic system inspired
   - Component
     - Software
     - Hardware
+    - Installation
   - Authors
   - Acknowledgments
     - Manual and Datasheet
@@ -135,12 +136,6 @@ https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/6cbd
 
 ## Component
 
-### Installation
-
-<p align="center">
-  <img src="https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/26c6f0ae-ee3d-4586-9ef4-caf4c24dd376" width="700"/>
-</p>
-
 ### - Software
 
 * [Arduino IDE](https://www.arduino.cc/en/software) (Any version)
@@ -196,19 +191,25 @@ https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/6cbd
   <img src="https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/2c12d810-dc2b-4f72-a08a-95d1fe9f8f5f" width="500"/>
 </p>
 
+### - Installation
+
+<p align="center">
+  <img src="https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/26c6f0ae-ee3d-4586-9ef4-caf4c24dd376" width="400"/>
+</p>
+
 ## Group members 
 
-* Nipitpon Phumchoedchan 6452500015 (Hormone system Design and Coding)
+* Nipitpon Phumchoedchan 6452500015
 
-* Chollatis Petchsing 6452500023 (CPG and VRN Coding)
+* Chollatis Petchsing 6452500023
 
-* Akaraphon Trakoolwiya 6452500180 (Mechanic and Desiner)
+* Akaraphon Trakoolwiya 6452500180
 
-* Kantawit Panyateang 6452500198 (Head of Mechanic and Desiner)
+* Kantawit Panyateang 6452500198
 
-* Wiraphat panma 6452500350 (Mechanic and Desiner)
+* Wiraphat panma 6452500350
 
-* Komgrid Petchpayub 6452500392 (Project Manager)
+* Komgrid Petchpayub 6452500392
 
 ## Acknowledgments
 ### - Manual and Datasheet
