@@ -71,8 +71,8 @@ Hc from this equation is used to adjust the motor speed. This system allows the 
 <p align="center">
   <img src="https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/37c52bce-65c4-4ef9-9caa-2a8e39d26326" width="500"/>
 </p>
+  * After choosing the Ankylosaurus as a reference for our robot, we based our design on a four-legged animal. Studying the skeleton of the Ankylosaurus, which has different leg lengths, we designed the front legs to be 86 centimeters long and the rear legs to be 115 centimeters long.
 
-  ** After choosing the Ankylosaurus as a reference for our robot, we based our design on a four-legged animal. Studying the skeleton of the Ankylosaurus, which has different leg lengths, we designed the front legs to be 86 centimeters long and the rear legs to be 115 centimeters long.
   * Free body diagram and Calculate force max in the home position. [Click hear](https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/blob/main/Prove/Free_body_diagram.pdf)
   * Experiment
     * Design testing showed that one leg can support 1500 grams, allowing the robot to support a total weight of 3000 grams with two legs. The robot's overall weight is approximately 1500 grams, with a tolerance of up to 50 percent (or 1500 grams). [Click hear](https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/blob/main/Prove/Experiment.mp4)
