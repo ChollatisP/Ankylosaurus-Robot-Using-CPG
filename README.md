@@ -125,7 +125,7 @@ https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/6cbd
  * Jumper wire
  
 ## Group members 
-+
+
 * Nipitpon Phumchoedchan 6452500015 (Hormone system Design and Coding)
 
 * Chollatis Petchsing 6452500023 (CPG and VRN Coding)
