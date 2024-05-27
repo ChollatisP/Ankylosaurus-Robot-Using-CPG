@@ -144,4 +144,13 @@ https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/6cbd
 
 * [Servo motor SCS 15 manual](https://grobotronics.com/images/companies/1/datasheets/SCS15&SCS115%20Manual.pdf?1516269264467)
 
+* [FE-URT-1](https://www.mantech.co.za/datasheets/products/FE-URT-1%20specs.pdf)
+
+* [Step Down (LM2596)](https://www.ti.com/lit/ds/symlink/lm2596.pdf)
+
+* [MG90S Servo Motor](https://www.electronicoscaldas.com/datasheet/MG90S_Tower-Pro.pdf)
+
+* [Node32S](https://www.es.co.th/Schemetic/PDF/ESP32.PDF)
+
+
 ### - [Reference](https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/tree/main/Reference)
