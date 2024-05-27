@@ -37,13 +37,22 @@ The goal of this Mini-Project is to design and develop a robotic system inspired
   <img src="https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/24042258-8aa3-4511-b7de-ab74b57d706e" width="300"/>
 </p>
   
-  *  The robotic system, inspired by an ankylosaurus, features shoulder joints (M0-M3) and knee joints (M4-M7). SO2 is employed with O1 and O2 as outputs. Output from O1 controls knee joints, with weights of 1 and -1 causing Front Left and Rear Right knees to move in sync, while Front Right and Rear Left knees move oppositely, mimicking ankylosaurus limb coordination. Additionally, output from O2 is combined with Input 1 and 2 to allow inputs to influence shoulder movement, termed VRNs (Variable Response Networks), enabling input values to affect robot motion. 
+The robotic system, inspired by an ankylosaurus, features shoulder joints (M0-M3) and knee joints (M4-M7). SO2 is employed with O1 and O2 as outputs. Output from O1 controls knee joints, with weights of 1 and -1 causing Front Left and Rear Right knees to move in sync, while Front Right and Rear Left knees move oppositely, mimicking ankylosaurus limb coordination. Additionally, output from O2 is combined with Input 1 and 2 to allow inputs to influence shoulder movement, termed VRNs (Variable Response Networks), enabling input values to affect robot motion. 
 
 ### - Hormone
 
 <p align="center">
   <img src="https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/70354047-444d-4235-b26e-a5317d0c8089" width="700"/>
 </p>
+
+In our hormone system, we use the motor torque to represent the robot's fatigue. We calculate the sum of the servo torque over five time windows and determine the standard deviation (SD) of this torque. This SD is then used in the hormone equation:
+
+Hc[t]=(a⋅SD(Torque))+(b⋅Hc[t−1])
+
+where 
+a (alpha) and 
+b (beta) are constants. The output 
+Hc from this equation is used to adjust the motor speed. This system allows the hormone levels to influence the walking speed of the robot.
 
 ## Part
 
