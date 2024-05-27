@@ -55,8 +55,8 @@ Hc from this equation is used to adjust the motor speed. This system allows the 
 
 ### - Robot design
 
-#### - Body
-  After choosing the Ankylosaurus as a reference for our robot, we based our design on a four-legged animal. Studying the skeleton of the Ankylosaurus, which has different leg lengths, we designed the front legs to be 86 centimeters long and the rear legs to be 115 centimeters long.
+* Body
+#### After choosing the Ankylosaurus as a reference for our robot, we based our design on a four-legged animal. Studying the skeleton of the Ankylosaurus, which has different leg lengths, we designed the front legs to be 86 centimeters long and the rear legs to be 115 centimeters long.
 
 ## Part
 
