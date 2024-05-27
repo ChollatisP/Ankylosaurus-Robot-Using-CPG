@@ -56,7 +56,7 @@ Hc from this equation is used to adjust the motor speed. This system allows the 
 ### - Robot design
 
 * Body
-#### After choosing the Ankylosaurus as a reference for our robot, we based our design on a four-legged animal. Studying the skeleton of the Ankylosaurus, which has different leg lengths, we designed the front legs to be 86 centimeters long and the rear legs to be 115 centimeters long.
+- After choosing the Ankylosaurus as a reference for our robot, we based our design on a four-legged animal. Studying the skeleton of the Ankylosaurus, which has different leg lengths, we designed the front legs to be 86 centimeters long and the rear legs to be 115 centimeters long.
 
 ## Part
 
@@ -100,7 +100,6 @@ https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/6cbd
 
 * [Arduino IDE](https://www.arduino.cc/en/software) (Any version)
   * Library
-
     * Normal
       * math.h
       * WiFi.h
