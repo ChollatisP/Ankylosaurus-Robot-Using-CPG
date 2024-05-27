@@ -116,6 +116,8 @@ https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/6cbd
 
 * PrusaSlicer (Up to your 3D printer)
 
+* [Node-RED](https://www.influxdata.com/blog/guide-installing-node-red/)
+
 * [FD 1.9.8.2](https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/tree/main/Feetech%20SCSservo%20Software) (SCSservo Software)
 
 
