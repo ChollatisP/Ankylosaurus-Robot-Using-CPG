@@ -56,14 +56,14 @@ Hc from this equation is used to adjust the motor speed. This system allows the 
 ### - Robot design
 
 * Materials and Equipment
-  1. PLA
-  2. Acrylic,2 mm and 4 mm
-  3. Wooden board 4 mm
-  4. Bearing(623RS) 3 mm
-  5. Screw
-  6. Nut
-  7. Inner tube
-  8. PVC pipe
+  - PLA
+  - Acrylic,2 mm and 4 mm
+  - Wooden board 4 mm
+  - Bearing(623RS) 3 mm
+  - Screw
+  - Nut
+  - Inner tube
+  - PVC pipe
 
 * Body
   - After choosing the Ankylosaurus as a reference for our robot, we based our design on a four-legged animal. Studying the skeleton of the Ankylosaurus, which has different leg lengths, we designed the front legs to be 86 centimeters long and the rear legs to be 115 centimeters long.
