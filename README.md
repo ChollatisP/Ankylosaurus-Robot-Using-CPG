@@ -85,7 +85,6 @@ Hc from this equation is used to adjust the motor speed. This system allows the 
 </p>
 
   * We design 3D-printable joints for assembling a tail using PLA filament, with a total weight of 36 grams. Drawing inspiration from dragon models, the joints feature a grab mechanism, enabling the tail to move left and right.
-## Part
 
 * Head
   * Reference
@@ -95,6 +94,8 @@ Hc from this equation is used to adjust the motor speed. This system allows the 
 </p>
 
   * We designed the head structure based on Ankylosaurus anatomy. Its structure is similar to that of a turtle. But it has sharp spines and bone-like armor to protect it from predators. We also designed the mouth to have a jaw-like structure. This allows the servo to control the movement of the mouth. It also has a long neck so that the servo can move the neck up and down.
+
+## Part
 
 ### - Tail
 
