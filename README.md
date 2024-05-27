@@ -36,8 +36,8 @@ living things.
 
 ![Screenshot 2024-05-26 225831](https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/24042258-8aa3-4511-b7de-ab74b57d706e)
 
-  * From this picture. We assign M4-M7 as an Knee Joint and assign M0-M3 as an Shoulder Joint of our Ankylosaurua robot. So we use SO2 an Assign as O1 and O2. 
-    * At O1, we use output from O1 to control Knee Joint an we use 1 and -1 as a weight of O1 os output from O1 will perform as Front Left Knee and Rear Right Knee will moving in the same direction and al Front Right Knee and Rear Left Knee
+  
+  *  The robotic system, inspired by an ankylosaurus, features shoulder joints (M0-M3) and knee joints (M4-M7). SO2 is employed with O1 and O2 as outputs. Output from O1 controls knee joints, with weights of 1 and -1 causing Front Left and Rear Right knees to move in sync, while Front Right and Rear Left knees move oppositely, mimicking ankylosaurus limb coordination. Additionally, output from O2 is combined with Input 1 and 2 to allow inputs to influence shoulder movement, termed VRNs (Variable Response Networks), enabling input values to affect robot motion. 
 
 ### - Hormone
 
