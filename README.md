@@ -2,7 +2,7 @@
 
 ## Description
 
-The goal of this Mini-Project is to design and develop a robotic system inspired by the Ankylosaurus, an armored dinosaur. This robot will utilize a Central Pattern Generator (CPG), Virtual Rhythmic Networks (VRNs), and Virtual Hormones to simulate the complex behaviors and nervous system found in living organisms. 
+The goal of this Mini-Project is to design and develop a robotic system inspired by the Ankylosaurus, an armored dinosaur. This robot will utilize a Central Pattern Generator (CPG), Virtual Rhythmic Networks (VRNs), and Virtual Hormones to simulate the nervous system found in living organisms. 
 
 
 ## Table of Content
