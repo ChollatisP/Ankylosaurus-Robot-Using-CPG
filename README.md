@@ -67,6 +67,7 @@ Hc from this equation is used to adjust the motor speed. This system allows the 
 
 * Body
   - After choosing the Ankylosaurus as a reference for our robot, we based our design on a four-legged animal. Studying the skeleton of the Ankylosaurus, which has different leg lengths, we designed the front legs to be 86 centimeters long and the rear legs to be 115 centimeters long.
+  - Free body diagram and Calculate force max in the home position. [Click hear](https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/blob/main/Prove/Free_body_diagram.pdf)
 
 ## Part
 
