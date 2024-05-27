@@ -82,8 +82,10 @@ Hc from this equation is used to adjust the motor speed. This system allows the 
 
 * Tail
   * Reference
-    <p align="center">
+    <p align="left">
       <img src="https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/97f1a28b-8aec-4e17-a96e-8ee542018c32" width="400"/>
+    </p>
+    <p align="right">
       <img src="https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/e6935cec-1c71-4bc3-9a23-b6e6ac818ea6)" width="400"/>
     </p>
 
@@ -91,8 +93,10 @@ Hc from this equation is used to adjust the motor speed. This system allows the 
 
 * Head
   * Reference
-    <p align="center">
+    <p align="left">
       <img src="https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/3e25c1e6-cdeb-4427-aadf-12d72b768a26" width="400"/>
+    </p>
+    <p align="right">
       <img src="https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/652792c7-629e-4e3f-ad38-e2ccd06bdce9" width="400"/>
     </p>
 
@@ -186,8 +190,10 @@ https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/6cbd
 
 ### - Diagram & Wiring
 
-<p align="center">
+<p align="left">
   <img src="https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/217aee18-ee77-4d6e-bcb5-e33e80466897" width="500"/>
+</p>
+<p align="right">
   <img src="https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/2c12d810-dc2b-4f72-a08a-95d1fe9f8f5f" width="500"/>
 </p>
 
