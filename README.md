@@ -136,7 +136,7 @@ https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/6cbd
 * Komgrid Petchpayub 6452500392 (Project Manager)
 
 ## Acknowledgments
-### Manual and Datasheet
+### - Manual and Datasheet
 
 * [Arduino® UNO R4 WiFi](https://docs.arduino.cc/resources/datasheets/ABX00087-datasheet.pdf)
 
