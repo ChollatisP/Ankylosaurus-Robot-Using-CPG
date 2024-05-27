@@ -135,6 +135,12 @@ https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/6cbd
 
 ## Component
 
+### Installation
+
+<p align="center">
+  <img src="https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/26c6f0ae-ee3d-4586-9ef4-caf4c24dd376" width="700"/>
+</p>
+
 ### - Software
 
 * [Arduino IDE](https://www.arduino.cc/en/software) (Any version)
