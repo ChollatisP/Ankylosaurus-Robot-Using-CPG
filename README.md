@@ -42,7 +42,7 @@ The goal of this Mini-Project is to design and develop a robotic system inspired
 ### - Hormone
 
 <p align="center">
-  <img src="https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/70354047-444d-4235-b26e-a5317d0c8089" width="300"/>
+  <img src="https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/70354047-444d-4235-b26e-a5317d0c8089" width="700"/>
 </p>
 
 ## Part
@@ -50,7 +50,7 @@ The goal of this Mini-Project is to design and develop a robotic system inspired
 ### - Tail
 
 <p align="center">
-  <img src="https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/eba4127e-1134-43ff-8ab5-4f68a62fa76f" width="500"/>
+  <img src="https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/eba4127e-1134-43ff-8ab5-4f68a62fa76f" width="700"/>
 </p>
 
 ### - Neck-Head
