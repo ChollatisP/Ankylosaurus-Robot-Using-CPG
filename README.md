@@ -110,6 +110,12 @@ https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/assets/154317545/6cbd
 
       * [How to install additional arduino library](https://docs.arduino.cc/software/ide-v1/tutorials/installing-libraries/)  
 
+* SOLIDWORKS or Fusion 360 or any cad design software.
+
+* RDWorksV8 (Laser Cut and Engrave Software)
+
+* PrusaSlicer (Up to your 3D printer)
+
 * [FD 1.9.8.2](https://github.com/ChollatisP/Ankylosaurus-Robot-Using-CPG/tree/main/Feetech%20SCSservo%20Software) (SCSservo Software)
 
 
